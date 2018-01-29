@@ -23,6 +23,25 @@ Akash Saha (as7933@rit.edu) ;
 Srinath Ramachandran (sxr3455@rit.edu) ; 
 Karthik Sivarama Krishnan (ks7585@rit.edu)
 
+# Citation
+All code is provided for research purposes only and without any warranty. Any commercial use requires our consent. When using the code in your research work, please cite the following paper:
+
+
+```
+@INPROCEEDINGS{8250154, 
+author={K. S. Krishnan and A. Saha and S. Ramachandran and S. Kumar}, 
+booktitle={2017 IEEE International Symposium on Robotics and Intelligent Sensors (IRIS)}, 
+title={Recognition of human arm gestures using Myo armband for the game of hand cricket}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={389-394}, 
+keywords={Electromyography;Feature extraction;Games;Gesture recognition;Muscles;Robot sensing systems;Support vector machines;Classification;EMG;Gesture Recognition;Hand Cricket;Myo;Support Vector Machine (SVM)}, 
+doi={10.1109/IRIS.2017.8250154}, 
+ISSN={}, 
+month={Oct},}
+```
+
 
 # Publication Link  
 http://ieeexplore.ieee.org/document/8250154/
